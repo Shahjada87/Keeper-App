@@ -1,7 +1,6 @@
 {
   "name": "keeper-part-3-completed",
   "version": "1.0.0",
-  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -23,5 +22,18 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahjada87/Keeper-App.git"
+  },
+  "author": "",
+  "license": "ISC","engines": {
+    "node": "14.15.4"
+  },
+  "bugs": {
+    "url": "https://github.com/Shahjada87/Keeper-App/issues"
+  },
+  "homepage": "https://github.com/Shahjada87/Keeper-App#readme",
+  "description": ""
 }
